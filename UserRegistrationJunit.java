@@ -11,7 +11,6 @@ public class UserRegistrationJunit {
 
 	public boolean validateFirstName(String firstName)
 	{
-		
 		return checkValidOrNot(firstName, NAME_PATTERN);	
 	}
 	public boolean validateLastName(String lastName)
