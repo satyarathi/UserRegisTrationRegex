@@ -1,6 +1,9 @@
 package com.userregistration_junit;
+
 import org.junit.Assert;
+
 import org.junit.Test;
+
 public class UserRegistrationTest {
 
 	UserRegistrationJunit validator = new UserRegistrationJunit();
